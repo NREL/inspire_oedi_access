@@ -1,10 +1,10 @@
 <img src="PVDAQ_logo.png" width="100">
 
-# PV DAQ Training 
+# INSPIRE's Agrivoltaics Shading Data Access Training 
 
 ### Jupyter Book
 
-For in depth Tutorials you can run online, see our [jupyter-book](https://nrel.github.io/pvdaq_access/intro.html)
+For in depth Tutorials you can run online, see our [jupyter-book](https://nrel.github.io/inspire_openei_access/intro.html)
 Clicking on the rocket-icon on the top allows you to launch the journals on [Google Colaboratory](https://colab.research.google.com/) for interactive mode.
 Just uncomment the first line `pip install ...`  to install the environment on each journal if you follow this mode.
 
@@ -19,7 +19,7 @@ steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/NREL/pvdaq_access.git
+   git clone https://github.com/NREL/inspire_openei_access.git
    ```
 
 1. Create the environment and install the requirements. The repository includes
@@ -31,7 +31,7 @@ steps:
    conda activate pvdaq
    ```
 
-   or you can install it with `pip install pvdaq_access` as explained in the installation instructions into the environment.
+   or you can install it with `pip install inspire_openei_access` as explained in the installation instructions into the environment.
 
 1. Start a Jupyter session:
 
@@ -46,6 +46,5 @@ steps:
 Documentation
 =============
 
-You can find more detail on functions and tools to use PVDAQ data with in:
-[RdTools ReadtheDocs](https://rdtools.readthedocs.io/en/stable/)
-[PVAnalytics](https://pvanalytics.readthedocs.io/en/stable/)
+You can find more detail on functions and tools to use the agrivoltaics shading data within:
+[InSPIRE Main Repository](https://nrel-inspire.readthedocs.io/en/stable/)

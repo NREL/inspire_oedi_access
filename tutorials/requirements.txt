@@ -1,3 +1,8 @@
 jupyter-book
-matplotlib
+xarray
+zarr
+s3fs
+fsspec
+pandas
 numpy
+matplotlib
